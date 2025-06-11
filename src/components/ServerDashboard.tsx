@@ -97,7 +97,7 @@ const ServerDashboard = () => {
         <div className="flex items-center justify-between mb-8">
           <div>
             <h1 className="text-3xl font-bold text-white font-oswald">
-              Counter-Strike 2 Мониторинг
+              GameServer
             </h1>
             <p className="text-slate-400 mt-1">
               Мониторинг игровых серверов в реальном времени
